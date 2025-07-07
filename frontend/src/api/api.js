@@ -2,7 +2,7 @@
 const baseUrl = {
 
     
-    baseUrl: "http://localhost:7000/"
+    baseUrl: "https://lmssanutest.onrender.com/"
 
 
 //this code is in test environment
@@ -11,6 +11,6 @@ const baseUrl = {
 export default baseUrl;
 
 
-// https://lms-1-lavs.onrender.com/
+//https://lmssanutest.onrender.com/    http://localhost:7000/
 
 
